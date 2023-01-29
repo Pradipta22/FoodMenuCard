@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodMenuCard/static/css/main.17655c3c.css",
+    "main.js": "/FoodMenuCard/static/js/main.d32fe478.js",
+    "index.html": "/FoodMenuCard/index.html",
+    "main.17655c3c.css.map": "/FoodMenuCard/static/css/main.17655c3c.css.map",
+    "main.d32fe478.js.map": "/FoodMenuCard/static/js/main.d32fe478.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.d32fe478.js"
+  ]
+}
